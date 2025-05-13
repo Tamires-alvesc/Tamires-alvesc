@@ -1,4 +1,8 @@
 ## Hi there 👋
+🌱 I’m currently learning Python
+👯 I’m looking forward to working as a developer 
+
+
 
 <!--
 **Tamires-alvesc/Tamires-alvesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
